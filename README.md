@@ -41,7 +41,7 @@ My name is <b>Aleksei Lunin</b>, and I have 2 years of experience in UI, API, an
 
 <br/>
 
-<p align="center" style="margin-left: 200px;">
+<p style="margin-left: 300px;">
     <img title="Have a good day :)" src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&pause=1000&color=F721A4&width=435&lines=QA+One+LOVE+%7C+Have+a+good+day">
 </p>
 
