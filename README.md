@@ -1,5 +1,5 @@
 <p align="center">
-    <img width = 30%, title="Hi!" src="attachments/gif/hacker.gif">
+    <img title="Hi!" src="attachments/gif/hacker.gif" style="max-width: 50%; display: inline-block;">
 </p>
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> <b>INFO</b>
