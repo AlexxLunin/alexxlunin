@@ -3,7 +3,7 @@
 
 <b>I am — Data Analyst</b>
 <p align="left">
-My name is <b>Aleksei Lunin</b>, and I have 2 years of experience in Data Science. I have a strong passion for data-driven decision-making and continually seek to expand my horizons by studying new technologies and tools that can enhance my analytical capabilities.
+My name is <b>Aleksei Lunin</b>, and I have a year of experience in <b>Data Science</b>. I have a strong passion for data-driven decision-making and continually seek to expand my horizons by studying new technologies and tools that can enhance my analytical capabilities.Here, you can explore some of my projects.
 </p>
 
 <br/>
@@ -37,8 +37,8 @@ My name is <b>Aleksei Lunin</b>, and I have 2 years of experience in Data Scienc
 
 <b>CONTACTS</b>
 <p align="center">
-<a href="https://www.linkedin.com/in/aleksei-lunin-5a5bb325b/"><img width=5% title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;
-<a href="mailto:hamziebusiness@gmail.com"><img width=5% title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>&nbsp;
+<a href="https://www.linkedin.com/in/alex-lunin-4b73bb369/"><img width=5% title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;
+<a href="mailto:a.lunin.work@gmail.com"><img width=5% title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>&nbsp;
 <a href="https://t.me/xkotoffx"><img width=5% title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></a>&nbsp;
 </p>
 
