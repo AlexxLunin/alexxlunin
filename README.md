@@ -3,7 +3,7 @@
 
 <b>I am — Data Analyst</b>
 <p align="left">
-My name is <b>Aleksei Lunin</b>, and I have a year of experience in <b>Data Science</b>. I have a strong passion for data-driven decision-making and continually seek to expand my horizons by studying new technologies and tools that can enhance my analytical capabilities.Here, you can explore some of my projects.
+My name is <b>Alex Lunin</b>, and I have a year of experience in <b>Data Science</b>. I have a strong passion for data-driven decision-making and continually seek to expand my horizons by studying new technologies and tools that can enhance my analytical capabilities.Here, you can explore some of my projects.
 </p>
 
 <br/>
