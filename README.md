@@ -14,18 +14,18 @@ My name is <b>Alex Lunin</b>, and I have a year of experience in <b>Data Science
 <!-- Programming Languages -->
 <a href="https://www.python.org/"><img title="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge"></a>
 <a href="https://www.r-project.org/"><img title="R" src="https://img.shields.io/badge/-R-276DC3?logo=r&style=for-the-badge"></a>
+<a href="https://www.mysql.com/"><img title="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge"></a>
 
 <!-- Data Analysis Libraries -->
 <a href="https://pandas.pydata.org/"><img title="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=for-the-badge"></a>
 <a href="https://numpy.org/"><img title="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=for-the-badge"></a>
 <a href="https://matplotlib.org/"><img title="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?logo=matplotlib&style=for-the-badge"></a>
 <a href="https://seaborn.pydata.org/"><img title="Seaborn" src="https://img.shields.io/badge/-Seaborn-9966CC?logo=seaborn&style=for-the-badge"></a>
-<a href="https://www.tensorflow.org/"><img title="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge"></a>
+<a href="https://pytorch.org/"><img title="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=for-the-badge"></a>
 
 <!-- Data Visualization Tools -->
 <a href="https://powerbi.microsoft.com/"><img title="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&style=for-the-badge"></a>
 <a href="https://www.tableau.com/"><img title="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&style=for-the-badge"></a>
-<a href="https://www.mysql.com/"><img title="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge"></a>
 
 <!-- Collaboration Tools -->
 <a href="https://slack.com/"><img title="Slack" src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&style=for-the-badge"></a>
