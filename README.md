@@ -1,7 +1,7 @@
 <b>ABOUT ME</b>
 <img align="right" width="35%" src="attachments/gif/Gif_animation.gif">
 
-<b>I am — Data Analyst</b>
+<b>I am — Data Scientist</b>
 <p align="left">
 My name is <b>Alex Lunin</b>, and I have a year of experience in <b>Data Science</b>. I have a strong passion for data-driven decision-making and continually seek to expand my horizons by studying new technologies and tools that can enhance my analytical capabilities.Here, you can explore some of my projects.
 </p>
